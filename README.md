@@ -6,4 +6,4 @@ Welcome to my repository, a rich collection of insights and programming resource
 This repository serves as a hub for my explorations in  large language models. Here, I compile code, insights, and discoveries drawn from various learning materials used in the class.
 
 # Learning Material
-https://www.coursera.org/learn/generative-ai-with-llms/home/week/1
+https://www.coursera.org/learn/generative-ai-with-llms/
